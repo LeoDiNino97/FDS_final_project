@@ -1,0 +1,5 @@
+1. From 'Text mining of news articles', future works: define two classifiers: 
+        the first determines wheter if a news title has any influence on the stock market, 
+        the second classifies the high-influential newstitles in 'positive' and 'negative'
+
+        
